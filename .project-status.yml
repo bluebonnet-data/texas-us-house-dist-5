@@ -1,17 +1,18 @@
 project:
-  name: ""
-  description: ""
+  name: Chelsey Hockett
+  description: ''
   tools: []
-  current_focus: ""
+  current_focus: ''
   needs: []
   links:
-    docs: ""
-    staging: ""
-    production: ""
+    docs: ''
+    staging: ''
+    production: ''
   team:
-    lead: ""
-    contributors: []
+    lead: davidwhitenyc
+    contributors:
+    - pauldingus
   campaign:
-    candidate: ""
-    office: ""
+    candidate: Chelsey Hockett
+    office: Texas US House District 5
   auto_refresh: true
